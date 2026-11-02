@@ -1,0 +1,13 @@
+const titulo = document.getElementById("titulo-principal");
+const parrafo = document.querySelector(".descripcion");
+titulo.textContent = "Bienvenido a mi Sitio Web Personal";
+const backyardigans = document.getElementById("power-ranger");
+backyardigans.textContent = "Ranger rojo";
+const backyardigans1 = document.getElementById("power-ranger1");
+backyardigans1.textContent = "Ranger azul";
+const backyardigans2 = document.getElementById("power-ranger2");
+backyardigans2.textContent = "Ranger verde";
+const backyardigans3 = document.getElementById("power-ranger3");
+backyardigans3.textContent = "Ranger amarillo";
+const backyardigans4 = document.getElementById("power-ranger4");
+backyardigans4.textContent = "Ranger negro";
